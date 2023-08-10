@@ -1,0 +1,56 @@
+.landing{
+    background-color: #000523;
+    height: 100vh;
+}
+.links{
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 1.02rem;
+}
+.links:hover
+{
+    color: #d8a6e0;
+}
+.active{
+    color: #d8a6e0;
+}
+.headText{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #d8a6e0;
+    letter-spacing: 10px;
+}
+.subText{
+    font-family: monospace;
+    letter-spacing: 4px;
+    font-size: 1.1rem;
+}
+
+.buttonBack{
+    background-color: #26c7fe;
+    padding: 10px;
+    font-family: monospace;
+    border-radius: 10px;
+}
+.socialLogo{
+    background-color: #d8a6e0;
+    color: #000523;
+    margin: 0 10px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    color: white;
+    border-radius: 100%;
+    cursor: pointer;
+}
+.link{
+    color: #d8a6e0;
+}
+.link:hover{
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.lander{
+    width: 400px;
+    height: auto;
+
+}
